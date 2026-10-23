@@ -1,0 +1,8 @@
+[package]
+name = "mkv2mp4"
+version = "0.2.0"
+edition = "2021"
+description = "Конвертация MKV в MP4 (через ffmpeg)"
+
+[dependencies]
+mkv2mp4-core = { path = "../core" }

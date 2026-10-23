@@ -1,0 +1,9 @@
+/target
+/vendor/src
+/vendor/bin
+/dist
+/.env
+/samples
+/.superpowers
+/app/rust/target
+.DS_Store

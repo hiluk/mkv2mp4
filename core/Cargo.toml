@@ -1,0 +1,12 @@
+[package]
+name = "mkv2mp4-core"
+version = "0.2.0"
+edition = "2021"
+description = "Ядро конвертации MKV → MP4 (через ffmpeg)"
+
+[dependencies]
+base64 = "0.22"
+cosmic-text = "0.19.0"
+png = "0.18.1"
+serde_json = "1"
+ureq = "2.12"
